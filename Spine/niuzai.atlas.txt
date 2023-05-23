@@ -1,0 +1,41 @@
+
+niuzai.png
+size: 1084,308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 2, 12
+  size: 348, 294
+  orig: 352, 298
+  offset: 2, 2
+  index: -1
+guang2
+  rotate: false
+  xy: 672, 8
+  size: 261, 298
+  orig: 263, 302
+  offset: 1, 2
+  index: -1
+ren_ying
+  rotate: true
+  xy: 352, 2
+  size: 304, 318
+  orig: 306, 320
+  offset: 1, 1
+  index: -1
+shanguang
+  rotate: false
+  xy: 935, 32
+  size: 125, 110
+  orig: 125, 110
+  offset: 0, 0
+  index: -1
+shanguang2
+  rotate: true
+  xy: 935, 144
+  size: 162, 147
+  orig: 162, 147
+  offset: 0, 0
+  index: -1

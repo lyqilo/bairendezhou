@@ -1,0 +1,13 @@
+
+kaishixiazhu.png
+size: 837,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kaishixiazhu
+  rotate: false
+  xy: 2, 2
+  size: 833, 186
+  orig: 847, 188
+  offset: 7, 1
+  index: -1
