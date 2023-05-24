@@ -11563,7 +11563,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &303792385
 RectTransform:
   m_ObjectHideFlags: 0
@@ -20850,7 +20850,7 @@ MonoBehaviour:
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
-  startingAnimation: 
+  startingAnimation: animation
   startingLoop: 0
   timeScale: 1
   freeze: 0
@@ -34564,7 +34564,7 @@ GameObject:
   - component: {fileID: 855259024}
   - component: {fileID: 855259023}
   m_Layer: 24
-  m_Name: CountDownText
+  m_Name: BetCountDownText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -57717,6 +57717,7 @@ GameObject:
   - component: {fileID: 1410245109}
   - component: {fileID: 1410245108}
   - component: {fileID: 1410245107}
+  - component: {fileID: 1410245111}
   m_Layer: 24
   m_Name: Main
   m_TagString: Untagged
@@ -57805,6 +57806,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1410245111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410245106}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d5184295d30175641a5ea5c8845b02ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1411683219
 PrefabInstance:
   m_ObjectHideFlags: 0
