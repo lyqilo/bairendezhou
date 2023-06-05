@@ -1,54 +1,54 @@
 
 kaichangdonghua.png
-size: 1888,1063
+size: 1888,1108
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
 bu
-  rotate: true
-  xy: 1456, 372
+  rotate: false
+  xy: 2, 2
   size: 689, 408
   orig: 694, 431
   offset: 4, 1
   index: -1
 guang
   rotate: true
-  xy: 2, 370
+  xy: 2, 412
   size: 691, 909
   orig: 693, 915
   offset: 1, 1
   index: -1
 hong_bg
   rotate: true
-  xy: 913, 28
+  xy: 913, 70
   size: 1033, 270
   orig: 1038, 273
   offset: 3, 1
   index: -1
 lan_bg
   rotate: true
-  xy: 1185, 30
+  xy: 1185, 72
   size: 1031, 269
   orig: 1037, 272
   offset: 3, 2
   index: -1
 niu
-  rotate: true
-  xy: 2, 2
+  rotate: false
+  xy: 1456, 669
   size: 366, 434
   orig: 388, 449
   offset: 14, 12
   index: -1
 ren
   rotate: true
-  xy: 1456, 83
+  xy: 1456, 10
   size: 287, 430
   orig: 313, 492
   offset: 23, 49
   index: -1
 vs
-  rotate: false
-  xy: 438, 3
+  rotate: true
+  xy: 1456, 299
   size: 368, 365
   orig: 476, 371
   offset: 15, 1
