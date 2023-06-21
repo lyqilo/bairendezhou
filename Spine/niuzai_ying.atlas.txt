@@ -1,5 +1,5 @@
 
-niuzai.png
+niuzai_ying.png
 size: 1084,308
 format: RGBA8888
 filter: Linear,Linear

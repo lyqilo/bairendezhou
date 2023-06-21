@@ -10,8 +10,8 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
-  m_Name: niuzai_Atlas
+  m_Name: niuzai_ying_Atlas
   m_EditorClassIdentifier: 
-  atlasFile: {fileID: 4900000, guid: eab7320c35408854d81429970c0e0a5c, type: 3}
+  atlasFile: {fileID: 4900000, guid: bf637380f89479a439e9a4e3cc3c71ea, type: 3}
   materials:
-  - {fileID: 2100000, guid: 99a37c9e227e81b44972a695c936cfc8, type: 2}
+  - {fileID: 2100000, guid: 76a7a23d56ca2484592b48e5b448bd80, type: 2}

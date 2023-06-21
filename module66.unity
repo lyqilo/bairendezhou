@@ -957,11 +957,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  skeletonDataAsset: {fileID: 11400000, guid: 136bca83526cd044eb5a59579222e781, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 73e195984a28111499a5b9335533ab8b, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
-  startingAnimation: ying
+  startingAnimation: animation
   startingLoop: 0
   timeScale: 1
   freeze: 0
@@ -42732,7 +42732,6 @@ GameObject:
   m_Component:
   - component: {fileID: 977783888}
   - component: {fileID: 977783887}
-  - component: {fileID: 977783886}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -42740,14 +42739,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &977783886
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 977783885}
-  m_Enabled: 1
 --- !u!20 &977783887
 Camera:
   m_ObjectHideFlags: 0
@@ -75879,7 +75870,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1751262221}
-  - component: {fileID: 1751262222}
   m_Layer: 0
   m_Name: DZNZ_Enter
   m_TagString: rootGameModule
@@ -75910,23 +75900,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1751262222
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1751262220}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d5184295d30175641a5ea5c8845b02ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  NotOpenNum: 10
-  SelfBetObjPos: []
-  PlayerIndex: 8
-  OtherPlayerIndex: 9
-  CacheBetObj: []
 --- !u!1 &1755620641
 GameObject:
   m_ObjectHideFlags: 0
@@ -90076,7 +90049,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &2074498192
 MonoBehaviour:
   m_ObjectHideFlags: 0
