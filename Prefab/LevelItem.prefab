@@ -181,7 +181,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: RICH NO.
+  m_text: RICH NO.1
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fa85c4d59bb9112418a8d87099a63d33, type: 2}
   m_sharedMaterial: {fileID: 8706928373506601432, guid: fa85c4d59bb9112418a8d87099a63d33,
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 10.75
+  m_fontSize: 9.5
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -264,7 +264,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   translationName: 380015
-  FallbackText: RICH NO.
+  FallbackText: RICH NO.1
 --- !u!1 &2450932359093788163
 GameObject:
   m_ObjectHideFlags: 0
