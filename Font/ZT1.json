@@ -1,8 +1,40 @@
 {"frames": [
 
 {
+	"filename": "B.png",
+	"frame": {"x":354,"y":0,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+{
+	"filename": "K.png",
+	"frame": {"x":418,"y":0,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+{
+	"filename": "M.png",
+	"frame": {"x":0,"y":72,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+{
+	"filename": "T.png",
+	"frame": {"x":64,"y":72,"w":64,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
+	"sourceSize": {"w":64,"h":72}
+},
+{
 	"filename": "zi3_+.png",
-	"frame": {"x":0,"y":72,"w":65,"h":76},
+	"frame": {"x":256,"y":72,"w":65,"h":76},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":76},
@@ -26,7 +58,7 @@
 },
 {
 	"filename": "zi3_0.png",
-	"frame": {"x":65,"y":72,"w":65,"h":71},
+	"frame": {"x":321,"y":72,"w":65,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":71},
@@ -42,7 +74,7 @@
 },
 {
 	"filename": "zi3_2.png",
-	"frame": {"x":354,"y":0,"w":64,"h":72},
+	"frame": {"x":128,"y":72,"w":64,"h":72},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":72},
@@ -58,7 +90,7 @@
 },
 {
 	"filename": "zi3_4.png",
-	"frame": {"x":130,"y":72,"w":65,"h":71},
+	"frame": {"x":386,"y":72,"w":65,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":71},
@@ -74,7 +106,7 @@
 },
 {
 	"filename": "zi3_6.png",
-	"frame": {"x":195,"y":72,"w":65,"h":71},
+	"frame": {"x":0,"y":148,"w":65,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":71},
@@ -90,7 +122,7 @@
 },
 {
 	"filename": "zi3_8.png",
-	"frame": {"x":260,"y":72,"w":65,"h":71},
+	"frame": {"x":65,"y":148,"w":65,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":71},
@@ -98,7 +130,7 @@
 },
 {
 	"filename": "zi3_9.png",
-	"frame": {"x":418,"y":0,"w":64,"h":71},
+	"frame": {"x":192,"y":72,"w":64,"h":71},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":71},
@@ -111,6 +143,6 @@
 	"format": "RGBA8888",
 	"size": {"w":512,"h":512},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:46b162ce73fd18302baa8241ab2c6618:45d3124df210131530212954dd75c9b8:ebc7cc37e02ff9e2ec964deade56a467$"
+	"smartupdate": "$TexturePacker:SmartUpdate:277e1285943f4d68440aff72a6ca4f30:f7f4b56e84ee2138d07b8b4930baf230:ebc7cc37e02ff9e2ec964deade56a467$"
 }
 }
