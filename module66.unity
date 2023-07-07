@@ -22607,6 +22607,7 @@ GameObject:
   - component: {fileID: 535173767}
   - component: {fileID: 535173769}
   - component: {fileID: 535173768}
+  - component: {fileID: 535173770}
   m_Layer: 0
   m_Name: StartAnim
   m_TagString: Untagged
@@ -22687,6 +22688,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 535173766}
   m_CullTransparentMesh: 1
+--- !u!225 &535173770
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 535173766}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1001 &540863108
 PrefabInstance:
   m_ObjectHideFlags: 0
