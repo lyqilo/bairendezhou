@@ -147,7 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380020
+  translationName: 366020
   FallbackText: FULL HOUSE
 --- !u!1 &1217534239600125596
 GameObject:
@@ -296,7 +296,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380017
+  translationName: 366017
   FallbackText: ROYAL FLUSH
 --- !u!1 &1363807195612858483
 GameObject:
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380019
+  translationName: 366019
   FallbackText: FOUR OF A KIND
 --- !u!1 &1383733592700271259
 GameObject:
@@ -631,7 +631,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380021
+  translationName: 366021
   FallbackText: FLUSH
 --- !u!1 &1885597335302142464
 GameObject:
@@ -780,7 +780,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380020
+  translationName: 366020
   FallbackText: FULL HOUSE
 --- !u!1 &1935529361151715344
 GameObject:
@@ -975,7 +975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380024
+  translationName: 366024
   FallbackText: TWO PAIR
 --- !u!1 &2607188927900190229
 GameObject:
@@ -1124,7 +1124,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380026
+  translationName: 366026
   FallbackText: HIGH
 --- !u!1 &2658089920718451017
 GameObject:
@@ -1273,7 +1273,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380022
+  translationName: 366022
   FallbackText: STRAIGHT
 --- !u!1 &2906977898354191756
 GameObject:
@@ -1422,7 +1422,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380017
+  translationName: 366017
   FallbackText: ROYAL FLUSH
 --- !u!1 &3384157483377269142
 GameObject:
@@ -1571,7 +1571,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380018
+  translationName: 366018
   FallbackText: STRAIGHT FLUSH
 --- !u!1 &4061509883972098868
 GameObject:
@@ -1720,7 +1720,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380027
+  translationName: 366027
   FallbackText: AA
 --- !u!1 &4644700215503037957
 GameObject:
@@ -1869,7 +1869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380025
+  translationName: 366025
   FallbackText: PAIR
 --- !u!1 &4823822150723395190
 GameObject:
@@ -2018,7 +2018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380024
+  translationName: 366024
   FallbackText: TWO PAIR
 --- !u!1 &4991753894400118710
 GameObject:
@@ -2167,7 +2167,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380021
+  translationName: 366021
   FallbackText: FLUSH
 --- !u!1 &5679471142691672873
 GameObject:
@@ -2316,7 +2316,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380025
+  translationName: 366025
   FallbackText: PAIR
 --- !u!1 &6598577393431287632
 GameObject:
@@ -2465,7 +2465,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380026
+  translationName: 366026
   FallbackText: HIGH
 --- !u!1 &7175245507412950302
 GameObject:
@@ -2614,7 +2614,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380018
+  translationName: 366018
   FallbackText: STRAIGHT FLUSH
 --- !u!1 &8133151948282428833
 GameObject:
@@ -2763,7 +2763,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380023
+  translationName: 366023
   FallbackText: THREE OF A KIND
 --- !u!1 &8739835083317085365
 GameObject:
@@ -2958,7 +2958,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380023
+  translationName: 366023
   FallbackText: THREE OF A KIND
 --- !u!1 &8775353751438960572
 GameObject:
@@ -3107,7 +3107,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380019
+  translationName: 366019
   FallbackText: FOUR OF A KIND
 --- !u!1 &9080775275505417661
 GameObject:
@@ -3256,7 +3256,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380027
+  translationName: 366027
   FallbackText: AA
 --- !u!1 &9093216077141932157
 GameObject:
@@ -3405,5 +3405,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380022
+  translationName: 366022
   FallbackText: STRAIGHT

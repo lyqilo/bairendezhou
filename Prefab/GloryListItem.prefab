@@ -583,7 +583,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380056
+  translationName: 366056
   FallbackText: 'Total Win:'
 --- !u!1 &4930526498460107404
 GameObject:
@@ -1066,6 +1066,7 @@ GameObject:
   - component: {fileID: 4224775192679216595}
   - component: {fileID: 1804363886936374881}
   - component: {fileID: 2244795206540937986}
+  - component: {fileID: 7477049874184707117}
   m_Layer: 5
   m_Name: MyRankText
   m_TagString: Untagged
@@ -1190,6 +1191,20 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!114 &7477049874184707117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7364256404251779492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  translationName: 380102
+  FallbackText: My Rank
 --- !u!1 &7991411404865343389
 GameObject:
   m_ObjectHideFlags: 0

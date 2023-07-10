@@ -1748,7 +1748,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380038
+  translationName: 366038
   FallbackText: 'BULL WIN:'
 --- !u!224 &64017758 stripped
 RectTransform:
@@ -1927,7 +1927,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380069
+  translationName: 366069
   FallbackText: '1:Royal Flush: 10,J,Q,K,A of the same suit;'
 --- !u!114 &67657982
 MonoBehaviour:
@@ -2487,7 +2487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380071
+  translationName: 366071
   FallbackText: '4:Full House: three cards of the same number of points with a pair;'
 --- !u!1 &85314455
 GameObject:
@@ -2637,7 +2637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380064
+  translationName: 366064
   FallbackText: '3:Over 100X: '
 --- !u!224 &87051608 stripped
 RectTransform:
@@ -3957,10 +3957,20 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -5133,7 +5143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380034
+  translationName: 366034
   FallbackText: WIN & LOSS
 --- !u!1 &130010838
 GameObject:
@@ -6007,7 +6017,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380065
+  translationName: 366065
   FallbackText: Win Limit
 --- !u!1 &148526992
 GameObject:
@@ -6414,7 +6424,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380074
+  translationName: 366074
   FallbackText: '7:Three of a kind: three cards of the same number of points plus
     two single cards;'
 --- !u!1 &151180535
@@ -7008,7 +7018,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380032
+  translationName: 366032
   FallbackText: Last 1000 Round Data
 --- !u!1 &171925720
 GameObject:
@@ -8682,7 +8692,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380011
+  translationName: 366011
   FallbackText: FULL HOUSE
 --- !u!114 &215147615
 MonoBehaviour:
@@ -8931,7 +8941,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380031
+  translationName: 366031
   FallbackText: Pearls is a multi-column grid with 6 cells in a column, with the
     red circle representing a Cowboy win and the blue circle representing a Bull
     win, Pearls uses a solid circle with a text showing the result.
@@ -10484,7 +10494,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380060
+  translationName: 366060
   FallbackText: (Rebet times can be set)
 --- !u!1001 &228670104
 PrefabInstance:
@@ -10733,7 +10743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380008
+  translationName: 366008
   FallbackText: PAIR
 --- !u!114 &230782429
 MonoBehaviour:
@@ -13197,7 +13207,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380045
+  translationName: 366045
   FallbackText: 'TWO PAIR:'
 --- !u!1 &297350524
 GameObject:
@@ -16971,7 +16981,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380097
+  translationName: 366097
   FallbackText: 
 --- !u!114 &378930732
 MonoBehaviour:
@@ -18692,7 +18702,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380036
+  translationName: 366036
   FallbackText: WINNING HAND
 --- !u!224 &433509335 stripped
 RectTransform:
@@ -19425,7 +19435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380035
+  translationName: 366035
   FallbackText: Hand
 --- !u!1 &439915399
 GameObject:
@@ -19477,7 +19487,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380005
+  translationName: 366005
   FallbackText: SUITED/CONNECTORS/\nDRAW HAND
 --- !u!114 &439915402
 MonoBehaviour:
@@ -20825,7 +20835,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380029
+  translationName: 366029
   FallbackText: Road is a multi-column grid-like chart with 6 rows,For the record,the
     red circle means cowboy wins and the blue circle means bull wins, so Road will
     be a column with alternating red and blue circles.
@@ -24768,7 +24778,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380090
+  translationName: 366090
   FallbackText: ON
 --- !u!224 &551301393 stripped
 RectTransform:
@@ -25508,7 +25518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380081
+  translationName: 366081
   FallbackText: "1:Hand\uFF1ARoyal flush > Straight flush > Four of a kind > Full
     House > Flush > Straight > Three of a kind > Two pairs > Pair > High card;"
 --- !u!224 &558797966 stripped
@@ -26237,9 +26247,9 @@ MonoBehaviour:
   m_colorMode: 2
   m_fontColorGradient:
     topLeft: {r: 1, g: 0.92549026, b: 0.74509805, a: 1}
-    topRight: {r: 0.93725497, g: 0.93725497, b: 0.93725497, a: 1}
+    topRight: {r: 1, g: 0.92549026, b: 0.74509805, a: 1}
     bottomLeft: {r: 0.89019614, g: 0.6745098, b: 0.14509805, a: 1}
-    bottomRight: {r: 0.65882355, g: 0.6745098, b: 0.65882355, a: 1}
+    bottomRight: {r: 0.89019614, g: 0.6745098, b: 0.14509805, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
@@ -26766,7 +26776,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380049
+  translationName: 366049
   FallbackText: HISTORY
 --- !u!1 &595049937
 GameObject:
@@ -28373,7 +28383,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380055
+  translationName: 366055
   FallbackText: GLORY LIST
 --- !u!224 &627105086 stripped
 RectTransform:
@@ -28656,6 +28666,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7364256404251779492, guid: af275f7e82e1d81489a51dd232ce450f,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7477049874184707117, guid: af275f7e82e1d81489a51dd232ce450f,
+        type: 3}
+      propertyPath: translationName
+      value: 366102
       objectReference: {fileID: 0}
     - target: {fileID: 8079213219020325158, guid: af275f7e82e1d81489a51dd232ce450f,
         type: 3}
@@ -29211,7 +29231,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380061
+  translationName: 366061
   FallbackText: Bet button setting,please select 5 different bet buttons
 --- !u!1 &634269349
 GameObject:
@@ -30199,7 +30219,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380079
+  translationName: 366079
   FallbackText: '2:Pair: two cards of the same points (including the pair of Aces);'
 --- !u!1 &655426330
 GameObject:
@@ -31779,7 +31799,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380030
+  translationName: 366030
   FallbackText: 'Pearls:'
 --- !u!1 &690464886
 GameObject:
@@ -31939,7 +31959,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380086
+  translationName: 366086
   FallbackText: '2:Anyside Hand: Suited/Connectors/Draw Hand, Pair, AA, three betting
     areas, winning to get the bonus of the corresponding multiplier;
 
@@ -32427,7 +32447,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380054
+  translationName: 366054
   FallbackText: 'TODAY''S WIN RANK : '
 --- !u!1 &698821232
 GameObject:
@@ -32577,7 +32597,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380082
+  translationName: 366082
   FallbackText: "2:Rank\uFF1AA>K>Q>J>10>9>8>7>6>5>4>3>2;"
 --- !u!1001 &698843297
 PrefabInstance:
@@ -32767,10 +32787,20 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -34704,7 +34734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380042
+  translationName: 366042
   FallbackText: 'SUITED/CONNECTORS/DRAW HAND:'
 --- !u!1 &719488988
 GameObject:
@@ -36362,7 +36392,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380063
+  translationName: 366063
   FallbackText: '2:10X-99X: '
 --- !u!1001 &757574098
 PrefabInstance:
@@ -36981,6 +37011,11 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 2450932359093788163, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_IsActive
@@ -36990,6 +37025,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -37606,10 +37646,20 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -38500,7 +38550,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380035
+  translationName: 366035
   FallbackText: HAND
 --- !u!224 &790620934 stripped
 RectTransform:
@@ -41344,7 +41394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380044
+  translationName: 366044
   FallbackText: 'FULL HOUSE:'
 --- !u!1 &842160512
 GameObject:
@@ -41480,10 +41530,20 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -43228,7 +43288,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380099
+  translationName: 366099
   FallbackText: PLAYER LIST
 --- !u!1 &858665730
 GameObject:
@@ -44312,7 +44372,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380047
+  translationName: 366047
   FallbackText: 'FOUR/STRAIGHT FLUSH/ROYSL FLUSH:'
 --- !u!1 &880114697
 GameObject:
@@ -45116,7 +45176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380050
+  translationName: 366050
   FallbackText: 'ONLINE PLSYERS : '
 --- !u!1 &902156851
 GameObject:
@@ -45873,7 +45933,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380028
+  translationName: 366028
   FallbackText: 'Road:'
 --- !u!1001 &925641499
 PrefabInstance:
@@ -47104,7 +47164,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380066
+  translationName: 366066
   FallbackText: Use Card
 --- !u!1001 &954831998
 PrefabInstance:
@@ -48408,7 +48468,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380067
+  translationName: 366067
   FallbackText: 1:Use a deck of cards, excluding the "joker" for a Total of 52 cards
 --- !u!224 &971860605 stripped
 RectTransform:
@@ -48564,7 +48624,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380089
+  translationName: 366089
   FallbackText: OFF
 --- !u!1 &974565035
 GameObject:
@@ -49542,7 +49602,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380089
+  translationName: 366089
   FallbackText: OFF
 --- !u!1 &986542719
 GameObject:
@@ -52760,7 +52820,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380083
+  translationName: 366083
   FallbackText: "3:Compare\uFF1AFirst compare the Hand,then compare the Rank of the
     cards from big to small, if the Rank is the same on both sides then it is Tie;"
 --- !u!1001 &1047108476
@@ -53674,7 +53734,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380013
+  translationName: 366013
   FallbackText: Rebet
 --- !u!1001 &1063271662
 PrefabInstance:
@@ -56580,7 +56640,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380090
+  translationName: 366090
   FallbackText: ON
 --- !u!1001 &1121047136
 PrefabInstance:
@@ -58826,7 +58886,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380013
+  translationName: 366013
   FallbackText: Rebet
 --- !u!1001 &1165887169
 PrefabInstance:
@@ -59809,7 +59869,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380070
+  translationName: 366070
   FallbackText: '2:Straight Flush: five straight cards of the same suit;'
 --- !u!1001 &1188712815
 PrefabInstance:
@@ -61296,7 +61356,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380014
+  translationName: 366014
   FallbackText: Clear
 --- !u!224 &1204176186 stripped
 RectTransform:
@@ -61689,7 +61749,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380041
+  translationName: 366041
   FallbackText: 'AA:'
 --- !u!1 &1207873618
 GameObject:
@@ -62686,7 +62746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380007
+  translationName: 366007
   FallbackText: TWO PAIR
 --- !u!114 &1227860375
 MonoBehaviour:
@@ -63105,7 +63165,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380012
+  translationName: 366012
   FallbackText: FOUR/STRAIGHT\nFLUSH/ROYAL FLUSH
 --- !u!114 &1237248304
 MonoBehaviour:
@@ -63953,7 +64013,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380094
+  translationName: 366094
   FallbackText: Sound
 --- !u!1 &1260869285
 GameObject:
@@ -64029,9 +64089,9 @@ MonoBehaviour:
   m_colorMode: 2
   m_fontColorGradient:
     topLeft: {r: 1, g: 0.92549026, b: 0.74509805, a: 1}
-    topRight: {r: 0.93725497, g: 0.93725497, b: 0.93725497, a: 1}
+    topRight: {r: 1, g: 0.92549026, b: 0.74509805, a: 1}
     bottomLeft: {r: 0.89019614, g: 0.6745098, b: 0.14509805, a: 1}
-    bottomRight: {r: 0.65882355, g: 0.6745098, b: 0.65882355, a: 1}
+    bottomRight: {r: 0.89019614, g: 0.6745098, b: 0.14509805, a: 1}
   m_fontColorGradientPreset: {fileID: 0}
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
@@ -64103,7 +64163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380059
+  translationName: 366059
   FallbackText: BET SETTING
 --- !u!1001 &1265422991
 PrefabInstance:
@@ -64383,7 +64443,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380078
+  translationName: 366078
   FallbackText: "1:Suited/Connectors/Draw Hand\uFF1ATwo cards of the same suit/two
     straight points/two straight cards of the same suit;"
 --- !u!1001 &1269355552
@@ -65507,7 +65567,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380095
+  translationName: 366095
   FallbackText: Setting
 --- !u!1001 &1293905642
 PrefabInstance:
@@ -65697,6 +65757,11 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 2609660463333199606, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_IsActive
@@ -65706,6 +65771,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -67514,7 +67584,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380010
+  translationName: 366010
   FallbackText: THREE/STRAIGHT/\nFLUSH
 --- !u!114 &1327974680
 MonoBehaviour:
@@ -68824,7 +68894,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380058
+  translationName: 366058
   FallbackText: CLEAR ALL
 --- !u!1 &1353113064
 GameObject:
@@ -70808,7 +70878,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380004
+  translationName: 366004
   FallbackText: BULL WIN
 --- !u!114 &1386485553
 MonoBehaviour:
@@ -71745,6 +71815,11 @@ PrefabInstance:
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.89019614
       objectReference: {fileID: 0}
+    - target: {fileID: 959441326929402417, guid: eac0c44bab9e8504d92f787d55c74048,
+        type: 3}
+      propertyPath: translationName
+      value: 366027
+      objectReference: {fileID: 0}
     - target: {fileID: 1075155443169749816, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_hasFontAssetChanged
@@ -71813,32 +71888,32 @@ PrefabInstance:
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 1613808554622624998, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 1965456425140070848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -71883,32 +71958,32 @@ PrefabInstance:
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -71918,32 +71993,32 @@ PrefabInstance:
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 2338448347712837705, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -71983,32 +72058,32 @@ PrefabInstance:
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 2491554223328565648, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 2649742134348966549, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72043,32 +72118,32 @@ PrefabInstance:
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 3782416609854585538, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72134,6 +72209,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.89019614
+      objectReference: {fileID: 0}
+    - target: {fileID: 3985357894595584006, guid: eac0c44bab9e8504d92f787d55c74048,
+        type: 3}
+      propertyPath: translationName
+      value: 366027
       objectReference: {fileID: 0}
     - target: {fileID: 4265356438935002928, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72263,32 +72343,32 @@ PrefabInstance:
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 5673909406465492460, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72503,32 +72583,32 @@ PrefabInstance:
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 6347259283350731177, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72603,32 +72683,32 @@ PrefabInstance:
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 6962180684747840610, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72703,32 +72783,32 @@ PrefabInstance:
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 7901615797434793252, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -72763,62 +72843,62 @@ PrefabInstance:
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eac0c44bab9e8504d92f787d55c74048, type: 3}
@@ -73333,7 +73413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380076
+  translationName: 366076
   FallbackText: '9:High card: Five non-consecutive single cards that are not of the
     same suit;'
 --- !u!1001 &1408834519
@@ -74656,7 +74736,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380037
+  translationName: 366037
   FallbackText: 'COWBOY WIN:'
 --- !u!1001 &1437017896
 PrefabInstance:
@@ -76126,7 +76206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380039
+  translationName: 366039
   FallbackText: 'TIE:'
 --- !u!1001 &1473576850
 PrefabInstance:
@@ -76934,7 +77014,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380093
+  translationName: 366093
   FallbackText: Rules
 --- !u!1 &1482233961
 GameObject:
@@ -76986,7 +77066,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380092
+  translationName: 366092
   FallbackText: WINNING\nHAND
 --- !u!114 &1482233964
 MonoBehaviour:
@@ -77972,7 +78052,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380070
+  translationName: 366070
   FallbackText: '3:Four Of A Kind: four cards of the same number of points with a
     single card;'
 --- !u!1 &1502307811
@@ -78831,7 +78911,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 
+  translationName: 366002
   FallbackText: COWBOY WIN
 --- !u!114 &1527601622
 MonoBehaviour:
@@ -79389,7 +79469,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380077
+  translationName: 366077
   FallbackText: Anyside Hand(Cowboy or Bull's Hand)
 --- !u!1 &1535425430
 GameObject:
@@ -80229,6 +80309,11 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
@@ -80238,6 +80323,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -80828,7 +80918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380003
+  translationName: 366003
   FallbackText: TIE
 --- !u!114 &1569087293
 MonoBehaviour:
@@ -81738,7 +81828,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380096
+  translationName: 366096
   FallbackText: Lobby
 --- !u!224 &1604169256 stripped
 RectTransform:
@@ -82181,6 +82271,11 @@ PrefabInstance:
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.65882355
       objectReference: {fileID: 0}
+    - target: {fileID: 2552147100774457761, guid: 89d1db619ceae8341935605e9f8bbc67,
+        type: 3}
+      propertyPath: translationName
+      value: 366051
+      objectReference: {fileID: 0}
     - target: {fileID: 3278768718694562064, guid: 89d1db619ceae8341935605e9f8bbc67,
         type: 3}
       propertyPath: m_UseSpriteMesh
@@ -82210,6 +82305,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.89019614
+      objectReference: {fileID: 0}
+    - target: {fileID: 3840649149290396011, guid: 89d1db619ceae8341935605e9f8bbc67,
+        type: 3}
+      propertyPath: translationName
+      value: 366052
       objectReference: {fileID: 0}
     - target: {fileID: 4046131311957117390, guid: 89d1db619ceae8341935605e9f8bbc67,
         type: 3}
@@ -82381,6 +82481,11 @@ PrefabInstance:
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.65882355
       objectReference: {fileID: 0}
+    - target: {fileID: 5786509327659606165, guid: 89d1db619ceae8341935605e9f8bbc67,
+        type: 3}
+      propertyPath: translationName
+      value: 366053
+      objectReference: {fileID: 0}
     - target: {fileID: 6371533065334860278, guid: 89d1db619ceae8341935605e9f8bbc67,
         type: 3}
       propertyPath: m_UseSpriteMesh
@@ -82524,6 +82629,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7790673371151194345, guid: 89d1db619ceae8341935605e9f8bbc67,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 8079213219020325158, guid: 89d1db619ceae8341935605e9f8bbc67,
         type: 3}
@@ -85896,7 +86006,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380043
+  translationName: 366043
   FallbackText: 'HIGH/PAIR:'
 --- !u!1001 &1688298266
 PrefabInstance:
@@ -86243,7 +86353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380048
+  translationName: 366048
   FallbackText: STATISTICS
 --- !u!1001 &1690310159
 PrefabInstance:
@@ -88418,7 +88528,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380085
+  translationName: 366085
   FallbackText: '1:Win or lose betting area: Cowboys win, tie, Bulls win, three betting
     areas, throw in to get the bonus of the corresponding multiplier.'
 --- !u!1 &1741556472
@@ -88735,7 +88845,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380006
+  translationName: 366006
   FallbackText: HIGH/PAIR
 --- !u!114 &1746653548
 MonoBehaviour:
@@ -89571,7 +89681,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380046
+  translationName: 366046
   FallbackText: 'THREE/STRAIGHT/FLUSH:'
 --- !u!224 &1770000557 stripped
 RectTransform:
@@ -91540,7 +91650,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380097
+  translationName: 366097
   FallbackText: GAMES STARTING
 --- !u!114 &1795869522
 MonoBehaviour:
@@ -92541,7 +92651,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380057
+  translationName: 366057
   FallbackText: CONFIRM
 --- !u!1001 &1835762790
 PrefabInstance:
@@ -94403,7 +94513,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380087
+  translationName: 366087
   FallbackText: '3:Winning betting area: high card/pair, two pair, three/straight/flush.
 
     Gourd,
@@ -94865,7 +94975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380033
+  translationName: 366033
   FallbackText: Last 1000 Round Count
 --- !u!1 &1890354840
 GameObject:
@@ -96115,7 +96225,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380073
+  translationName: 366073
   FallbackText: '6:Straight: five consecutive cards of different suits;'
 --- !u!1 &1907793393
 GameObject:
@@ -96265,7 +96375,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380072
+  translationName: 366072
   FallbackText: '5:Flush: five non-consecutive cards of the same suit;'
 --- !u!1 &1909065492
 GameObject:
@@ -96415,7 +96525,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380084
+  translationName: 366084
   FallbackText: Betting Area
 --- !u!1 &1909999371
 GameObject:
@@ -97808,7 +97918,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380062
+  translationName: 366062
   FallbackText: '1:Under 10X: '
 --- !u!1001 &1933023776
 PrefabInstance:
@@ -98050,6 +98160,11 @@ PrefabInstance:
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.65882355
       objectReference: {fileID: 0}
+    - target: {fileID: 1819621163465649108, guid: af275f7e82e1d81489a51dd232ce450f,
+        type: 3}
+      propertyPath: translationName
+      value: 366056
+      objectReference: {fileID: 0}
     - target: {fileID: 2244795206540937986, guid: af275f7e82e1d81489a51dd232ce450f,
         type: 3}
       propertyPath: m_fontAsset
@@ -98214,6 +98329,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7477049874184707117, guid: af275f7e82e1d81489a51dd232ce450f,
+        type: 3}
+      propertyPath: translationName
+      value: 366102
       objectReference: {fileID: 0}
     - target: {fileID: 8079213219020325158, guid: af275f7e82e1d81489a51dd232ce450f,
         type: 3}
@@ -99159,8 +99279,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380013
-  FallbackText: 
+  translationName: 366013
+  FallbackText: Rebet
 --- !u!224 &1955863329 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5747830484140963672, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
@@ -99315,7 +99435,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380057
+  translationName: 366057
   FallbackText: CONFIRM
 --- !u!1001 &1957548541
 PrefabInstance:
@@ -101623,7 +101743,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380059
+  translationName: 366059
   FallbackText: Rebet Setting
 --- !u!1 &1999022454
 GameObject:
@@ -102291,7 +102411,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380009
+  translationName: 366009
   FallbackText: AA
 --- !u!114 &2025425082
 MonoBehaviour:
@@ -103135,7 +103255,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380068
+  translationName: 366068
   FallbackText: Winning Hand
 --- !u!224 &2054219145 stripped
 RectTransform:
@@ -103569,7 +103689,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380057
+  translationName: 366057
   FallbackText: CONFIRM
 --- !u!1 &2058071374
 GameObject:
@@ -104670,7 +104790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380040
+  translationName: 366040
   FallbackText: 'PAIR:'
 --- !u!1 &2073321064
 GameObject:
@@ -105389,7 +105509,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380075
+  translationName: 366075
   FallbackText: '8:Two pairs: a pair with two different points and a single card;'
 --- !u!1 &2081195461
 GameObject:
@@ -106018,7 +106138,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380091
+  translationName: 366091
   FallbackText: ANYSIDE\nHAND
 --- !u!114 &2100391528
 MonoBehaviour:
@@ -108012,10 +108132,20 @@ PrefabInstance:
       propertyPath: m_UseSpriteMesh
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2182062293116590250, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366015
+      objectReference: {fileID: 0}
     - target: {fileID: 3182237215741247253, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
       propertyPath: m_UseSpriteMesh
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4890398770478096258, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
+        type: 3}
+      propertyPath: translationName
+      value: 366016
       objectReference: {fileID: 0}
     - target: {fileID: 5219577573641567335, guid: 5c0dec518f60d3e45a5cb14fa65346e1,
         type: 3}
@@ -109249,7 +109379,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380080
+  translationName: 366080
   FallbackText: '3:AA: two aces.'
 --- !u!1001 &2145576136
 PrefabInstance:
@@ -110555,6 +110685,11 @@ PrefabInstance:
       propertyPath: m_fontColorGradient.bottomRight.r
       value: 0.89019614
       objectReference: {fileID: 0}
+    - target: {fileID: 959441326929402417, guid: eac0c44bab9e8504d92f787d55c74048,
+        type: 3}
+      propertyPath: translationName
+      value: 366027
+      objectReference: {fileID: 0}
     - target: {fileID: 1075155443169749816, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_hasFontAssetChanged
@@ -110693,32 +110828,32 @@ PrefabInstance:
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 2237582088429096735, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -110728,32 +110863,32 @@ PrefabInstance:
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 2307576850237251849, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 2338448347712837705, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -110853,32 +110988,32 @@ PrefabInstance:
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 3098423225882114848, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 3782416609854585538, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -111073,32 +111208,32 @@ PrefabInstance:
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 5426757696906781278, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 5673909406465492460, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -111318,32 +111453,32 @@ PrefabInstance:
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 6145486912449309205, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 6347259283350731177, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -111418,32 +111553,32 @@ PrefabInstance:
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 6762605914748658464, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 6962180684747840610, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -111513,32 +111648,32 @@ PrefabInstance:
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 7540177197810437130, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 7901615797434793252, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
@@ -111573,62 +111708,62 @@ PrefabInstance:
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 8491600369560255250, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.b
-      value: 0.93725497
+      value: 0.9333334
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.g
-      value: 0.93725497
+      value: 0.97647065
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.topRight.r
-      value: 0.93725497
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.b
-      value: 0.65882355
+      value: 0.36078432
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.g
-      value: 0.6745098
+      value: 0.86274517
       objectReference: {fileID: 0}
     - target: {fileID: 9171275417791102942, guid: eac0c44bab9e8504d92f787d55c74048,
         type: 3}
       propertyPath: m_fontColorGradient.bottomRight.r
-      value: 0.65882355
+      value: 0.9490197
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: eac0c44bab9e8504d92f787d55c74048, type: 3}
