@@ -1296,7 +1296,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380102
+  translationName: 366101
   FallbackText: My Rank
 --- !u!1 &7991411404865343389
 GameObject:
