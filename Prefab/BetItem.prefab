@@ -1029,7 +1029,7 @@ GameObject:
   - component: {fileID: 6040679800551499085}
   - component: {fileID: 6136126251934701940}
   m_Layer: 24
-  m_Name: Background
+  m_Name: Select
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
