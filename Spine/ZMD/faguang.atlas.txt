@@ -1,0 +1,62 @@
+
+faguang.png
+size: 796,696
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 395, 519
+  size: 398, 172
+  orig: 600, 600
+  offset: 101, 218
+  index: -1
+2
+  rotate: false
+  xy: 395, 346
+  size: 398, 171
+  orig: 600, 600
+  offset: 101, 218
+  index: -1
+3
+  rotate: false
+  xy: 2, 342
+  size: 391, 171
+  orig: 600, 600
+  offset: 105, 217
+  index: -1
+4
+  rotate: false
+  xy: 2, 515
+  size: 391, 176
+  orig: 600, 600
+  offset: 105, 213
+  index: -1
+5
+  rotate: false
+  xy: 395, 173
+  size: 390, 171
+  orig: 600, 600
+  offset: 106, 218
+  index: -1
+6
+  rotate: false
+  xy: 2, 169
+  size: 389, 171
+  orig: 600, 600
+  offset: 106, 218
+  index: -1
+7
+  rotate: false
+  xy: 393, 4
+  size: 398, 167
+  orig: 600, 600
+  offset: 102, 220
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 389, 165
+  orig: 600, 600
+  offset: 108, 222
+  index: -1
