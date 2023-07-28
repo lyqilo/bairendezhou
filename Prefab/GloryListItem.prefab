@@ -371,7 +371,6 @@ GameObject:
   - component: {fileID: 3944223546375751689}
   - component: {fileID: 6195423067965389149}
   - component: {fileID: 5524420543181329322}
-  - component: {fileID: 8798936151699618155}
   m_Layer: 5
   m_Name: Icon
   m_TagString: Untagged
@@ -436,22 +435,6 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &8798936151699618155
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4047942720567250307}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97bc2ebab6563400c95b036136d26ea6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Inverse: 0
-  m_MaskInteraction: 85
-  m_UseStencil: 1
-  m_RaycastFilter: 0
 --- !u!1 &4553512102110790947
 GameObject:
   m_ObjectHideFlags: 0
@@ -539,7 +522,6 @@ GameObject:
   - component: {fileID: 4711244499718211045}
   - component: {fileID: 9195746158001760041}
   - component: {fileID: 1470910373133192949}
-  - component: {fileID: 1819621163465649108}
   m_Layer: 5
   m_Name: Image
   m_TagString: Untagged
@@ -664,20 +646,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!114 &1819621163465649108
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4701535630045743921}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 366056
-  FallbackText: 'Total Win:'
 --- !u!1 &4930526498460107404
 GameObject:
   m_ObjectHideFlags: 0
@@ -1159,7 +1127,6 @@ GameObject:
   - component: {fileID: 4224775192679216595}
   - component: {fileID: 1804363886936374881}
   - component: {fileID: 2244795206540937986}
-  - component: {fileID: 7477049874184707117}
   m_Layer: 5
   m_Name: MyRankText
   m_TagString: Untagged
@@ -1284,20 +1251,6 @@ MonoBehaviour:
   m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
---- !u!114 &7477049874184707117
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7364256404251779492}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  translationName: 366101
-  FallbackText: My Rank
 --- !u!1 &7991411404865343389
 GameObject:
   m_ObjectHideFlags: 0
@@ -1309,7 +1262,7 @@ GameObject:
   - component: {fileID: 3467214003100618990}
   - component: {fileID: 5778258798508306367}
   - component: {fileID: 82467171286027870}
-  - component: {fileID: 1670696081401804865}
+  - component: {fileID: 8679391419820661618}
   m_Layer: 5
   m_Name: mask
   m_TagString: Untagged
@@ -1375,7 +1328,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &1670696081401804865
+--- !u!114 &8679391419820661618
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1384,17 +1337,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 7991411404865343389}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 385b7d1277b6c4007a84c065696e0f8c, type: 3}
+  m_Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_ShowMaskGraphic: 0
-  m_DownSamplingRate: 1
-  m_Softness: 1
-  m_Alpha: 1
-  m_IgnoreParent: 0
-  m_PartOfParent: 0
-  m_IgnoreSelfGraphic: 0
-  m_IgnoreSelfStencil: 0
+  m_ShowMaskGraphic: 1
 --- !u!1 &8222160568520760994
 GameObject:
   m_ObjectHideFlags: 0
