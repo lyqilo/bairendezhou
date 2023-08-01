@@ -1,0 +1,27 @@
+
+niu.png
+size: 915,293
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang1
+  rotate: false
+  xy: 669, 31
+  size: 244, 260
+  orig: 246, 264
+  offset: 1, 2
+  index: -1
+guang2
+  rotate: false
+  xy: 2, 2
+  size: 360, 289
+  orig: 362, 292
+  offset: 1, 2
+  index: -1
+niu_ying
+  rotate: true
+  xy: 364, 10
+  size: 281, 303
+  orig: 283, 305
+  offset: 1, 1
+  index: -1
