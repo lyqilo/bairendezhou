@@ -223,7 +223,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380051
+  translationName: 366051
   FallbackText: Betting
 --- !u!1 &3207880032502679982
 GameObject:
@@ -325,7 +325,7 @@ MonoBehaviour:
   m_fontSizeMin: 1
   m_fontSizeMax: 20
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -680,7 +680,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70bf96f09c1946d6843e6bd550989bee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  translationName: 380052
+  translationName: 366052
   FallbackText: Winning
 --- !u!1 &4701535630045743921
 GameObject:
@@ -1084,7 +1084,7 @@ MonoBehaviour:
   m_fontSizeMin: 1
   m_fontSizeMax: 20
   m_fontStyle: 1
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0

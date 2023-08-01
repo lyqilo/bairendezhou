@@ -1,0 +1,62 @@
+
+niu_ying.png
+size: 1468,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang01
+  rotate: false
+  xy: 2, 5
+  size: 360, 289
+  orig: 362, 292
+  offset: 1, 2
+  index: -1
+guang02
+  rotate: false
+  xy: 899, 34
+  size: 244, 260
+  orig: 246, 264
+  offset: 1, 2
+  index: -1
+jinbi
+  rotate: false
+  xy: 1307, 35
+  size: 131, 89
+  orig: 133, 91
+  offset: 1, 1
+  index: -1
+niuyou
+  rotate: false
+  xy: 1145, 2
+  size: 160, 292
+  orig: 167, 294
+  offset: 1, 1
+  index: -1
+niuzuo
+  rotate: false
+  xy: 364, 21
+  size: 265, 273
+  orig: 274, 294
+  offset: 1, 20
+  index: -1
+shenti
+  rotate: false
+  xy: 631, 26
+  size: 266, 268
+  orig: 274, 270
+  offset: 1, 1
+  index: -1
+shou
+  rotate: true
+  xy: 1389, 189
+  size: 105, 76
+  orig: 110, 78
+  offset: 4, 1
+  index: -1
+shouzhou
+  rotate: true
+  xy: 1307, 126
+  size: 168, 80
+  orig: 171, 82
+  offset: 1, 1
+  index: -1
