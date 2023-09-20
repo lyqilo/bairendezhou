@@ -233,6 +233,7 @@ SpriteAtlas:
   - {fileID: 21300000, guid: f4dce1fe509869941aae870550125663, type: 3}
   - {fileID: 21300000, guid: bbd6d20f61b474f4cb23f16e11cc6168, type: 3}
   - {fileID: 21300000, guid: 1e81840f6aed6af479b23bc1e8a3614e, type: 3}
+  - {fileID: 21300000, guid: 01d0741f03424fb41b451e85d0ae1d0d, type: 3}
   - {fileID: 21300000, guid: f4587b4f0107c144991476e4a65b7dba, type: 3}
   - {fileID: 21300000, guid: d30bdc4f35b22c8459b81d25c9b9c981, type: 3}
   - {fileID: 21300000, guid: c219a57f319ce1649bb2d8d3b5e39ebb, type: 3}
@@ -430,6 +431,7 @@ SpriteAtlas:
   - dz_icon_39
   - dznz_icon_08
   - dz_icon_51
+  - dz_icon_54
   - icon_xianzhi
   - dznz_icon_17
   - hong (9)
